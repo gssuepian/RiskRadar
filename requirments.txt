@@ -1,6 +1,7 @@
 streamlit
 openai
-PyPDF2
 fpdf
-Pillow
+pillow
 requests
+pypdf2
+markdown
