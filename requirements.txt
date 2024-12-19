@@ -4,3 +4,4 @@ PyPDF2
 fpdf
 Pillow
 requests
+markdown
