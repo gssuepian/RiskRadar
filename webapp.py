@@ -1,7 +1,6 @@
 import os
 import streamlit as st
-#from openai import AzureOpenAI
-import openai
+from openai import AzureOpenAI
 from io import BytesIO
 from fpdf import FPDF
 from PIL import Image
