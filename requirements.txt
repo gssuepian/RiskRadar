@@ -4,4 +4,3 @@ PyPDF2
 fpdf
 Pillow
 requests
-azure-ai-openai
